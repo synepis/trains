@@ -29,5 +29,12 @@ targetCompatibility = 1.8
 
 dependencies {
     compile("org.springframework.boot:spring-boot-starter-web")
+
+    compileOnly("org.projectlombok:lombok")
+
     testCompile("junit:junit")
+}
+
+task generateDarwinSchema(type: Exec) {
+    commandLine 'src/main/resources/darwin_schema/generate.sh'
 }
