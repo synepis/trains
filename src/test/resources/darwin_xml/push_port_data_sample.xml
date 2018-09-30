@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Pport xmlns="http://www.thalesgroup.com/rtti/PushPort/v12"
+       xmlns:ns3="http://www.thalesgroup.com/rtti/PushPort/Forecasts/v2" ts="2018-09-30T08:54:00.2207281+01:00" version="12.0">
+    <uR updateOrigin="Darwin">
+        <TS rid="201809308747473" ssd="2018-09-30" uid="W47473">
+            <ns3:Location ptd="08:49" tpl="PSEA" wtd="08:49">
+                <ns3:dep delayed="true" et="08:54" src="Darwin"/>
+                <ns3:plat platsrc="A">3</ns3:plat>
+                <ns3:length>4</ns3:length>
+            </ns3:Location>
+            <ns3:Location tpl="BLFRJN" wtp="08:51:17">
+                <ns3:pass delayed="true" et="08:56" src="Darwin"/>
+                <ns3:length>4</ns3:length>
+            </ns3:Location>
+            <ns3:Location pta="08:53" ptd="08:54" tpl="FRATTON" wta="08:52:30" wtd="08:54">
+                <ns3:arr delayed="true" et="08:57" src="Darwin"/>
+                <ns3:dep delayed="true" et="08:58" src="Darwin"/>
+                <ns3:plat platsrc="M">2</ns3:plat>
+                <ns3:length>4</ns3:length>
+            </ns3:Location>
+            <ns3:Location tpl="FRATTNE" wtp="08:54:52">
+                <ns3:pass delayed="true" et="08:59" src="Darwin"/>
+                <ns3:length>4</ns3:length>
+            </ns3:Location>
+            <ns3:Location tpl="HILSEA" wtp="08:57">
+                <ns3:pass delayed="true" et="09:01" src="Darwin"/>
+                <ns3:plat platsup="true">1</ns3:plat>
+                <ns3:length>4</ns3:length>
+            </ns3:Location>
+            <ns3:Location tpl="PCRKJN" wtp="08:57:30">
+                <ns3:pass delayed="true" et="09:02" src="Darwin"/>
+                <ns3:length>4</ns3:length>
+            </ns3:Location>
+            <ns3:Location tpl="FRLNGTJ" wtp="08:58">
+                <ns3:pass delayed="true" et="09:02" src="Darwin"/>
+                <ns3:length>4</ns3:length>
+            </ns3:Location>
+            <ns3:Location tpl="BDHMPTN" wtp="08:59:52">
+                <ns3:pass delayed="true" et="09:04" src="Darwin"/>
+                <ns3:plat platsup="true">1</ns3:plat>
+                <ns3:length>4</ns3:length>
+            </ns3:Location>
+            <ns3:Location pta="09:02" ptd="09:02" tpl="HAVANT" wta="09:01:30" wtd="09:02:30">
+                <ns3:arr delayed="true" et="09:06" src="Darwin"/>
+                <ns3:dep delayed="true" et="09:06" src="Darwin"/>
+                <ns3:plat>1</ns3:plat>
+                <ns3:length>4</ns3:length>
+            </ns3:Location>
+            <ns3:Location tpl="WRBLNGT" wtp="09:03">
+                <ns3:pass delayed="true" et="09:07" src="Darwin"/>
+                <ns3:length>4</ns3:length>
+            </ns3:Location>
+            <ns3:Location pta="09:06" ptd="09:06" tpl="EMSWTH" wta="09:05:30" wtd="09:06">
+                <ns3:arr delayed="true" et="09:09" src="Darwin"/>
+                <ns3:dep delayed="true" et="09:10" src="Darwin"/>
+                <ns3:plat platsrc="A">1</ns3:plat>
+                <ns3:length>4</ns3:length>
+            </ns3:Location>
+            <ns3:Location tpl="SBOURNE" wtp="09:07">
+                <ns3:pass delayed="true" et="09:11" src="Darwin"/>
+                <ns3:length>4</ns3:length>
+            </ns3:Location>
+            <ns3:Location tpl="NUTBORN" wtp="09:08">
+                <ns3:pass delayed="true" et="09:12" src="Darwin"/>
+                <ns3:length>4</ns3:length>
+            </ns3:Location>
+            <ns3:Location tpl="BOSHAM" wtp="09:10">
+                <ns3:pass delayed="true" et="09:14" src="Darwin"/>
+                <ns3:length>4</ns3:length>
+            </ns3:Location>
+            <ns3:Location tpl="FSHBORN" wtp="09:11">
+                <ns3:pass delayed="true" et="09:15" src="Darwin"/>
+                <ns3:length>4</ns3:length>
+            </ns3:Location>
+            <ns3:Location pta="09:14" ptd="09:14" tpl="CHCHSTR" wta="09:13:30" wtd="09:14:30">
+                <ns3:arr delayed="true" et="09:17" src="Darwin"/>
+                <ns3:dep delayed="true" et="09:18" src="Darwin"/>
+                <ns3:plat>1</ns3:plat>
+                <ns3:length>4</ns3:length>
+            </ns3:Location>
+            <ns3:Location pta="09:22" ptd="09:23" tpl="BRHM" wta="09:21:30" wtd="09:23">
+                <ns3:arr delayed="true" et="09:25" src="Darwin"/>
+                <ns3:dep delayed="true" et="09:26" src="Darwin"/>
+                <ns3:plat>3</ns3:plat>
+                <ns3:length>4</ns3:length>
+            </ns3:Location>
+            <ns3:Location pta="09:27" ptd="09:27" tpl="FORD" wta="09:27" wtd="09:27:30">
+                <ns3:arr delayed="true" et="09:30" src="Darwin"/>
+                <ns3:dep delayed="true" et="09:30" src="Darwin"/>
+                <ns3:plat>1</ns3:plat>
+                <ns3:length>4</ns3:length>
+            </ns3:Location>
+            <ns3:Location tpl="ARUNDLJ" wtp="09:30">
+                <ns3:pass delayed="true" et="09:33" src="Darwin"/>
+                <ns3:length>4</ns3:length>
+            </ns3:Location>
+            <ns3:Location pta="09:34" ptd="09:35" tpl="ANGMRNG" wta="09:34" wtd="09:35">
+                <ns3:arr delayed="true" et="09:37" src="Darwin"/>
+                <ns3:dep delayed="true" et="09:38" src="Darwin"/>
+                <ns3:plat>1</ns3:plat>
+                <ns3:length>4</ns3:length>
+            </ns3:Location>
+            <ns3:Location pta="09:39" ptd="09:39" tpl="GORNGBS" wta="09:38:30" wtd="09:39">
+                <ns3:arr delayed="true" et="09:41" src="Darwin"/>
+                <ns3:dep delayed="true" et="09:42" src="Darwin"/>
+                <ns3:plat>1</ns3:plat>
+                <ns3:length>4</ns3:length>
+            </ns3:Location>
+            <ns3:Location pta="09:41" ptd="09:41" tpl="DRNGTOS" wta="09:41" wtd="09:41:30">
+                <ns3:arr delayed="true" et="09:44" src="Darwin"/>
+                <ns3:dep delayed="true" et="09:44" src="Darwin"/>
+                <ns3:plat>1</ns3:plat>
+                <ns3:length>4</ns3:length>
+            </ns3:Location>
+            <ns3:Location pta="09:44" ptd="09:44" tpl="WWRTHNG" wta="09:43:30" wtd="09:44">
+                <ns3:arr delayed="true" et="09:46" src="Darwin"/>
+                <ns3:dep delayed="true" et="09:47" src="Darwin"/>
+                <ns3:plat>1</ns3:plat>
+                <ns3:length>4</ns3:length>
+            </ns3:Location>
+            <ns3:Location pta="09:46" ptd="09:55" tpl="WORTHNG" wta="09:46" wtd="09:55">
+                <ns3:arr delayed="true" et="09:49" src="Darwin"/>
+                <ns3:dep delayed="true" et="09:55" src="Darwin"/>
+                <ns3:plat>1</ns3:plat>
+                <ns3:length>4</ns3:length>
+            </ns3:Location>
+        </TS>
+    </uR>
+</Pport>

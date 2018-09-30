@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PportTimetable xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" timetableID="20180930020700" xmlns="http://www.thalesgroup.com/rtti/XmlTimetable/v8">
+    <Journey rid="201809306772601" uid="C72601" trainId="5M17" ssd="2018-09-30" toc="VT" trainCat="EE" isPassengerSvc="false">
+        <OPOR tpl="EUSTON" act="TB" wtd="22:07" />
+        <PP tpl="CMDNSTH" wtp="22:10:30" />
+        <PP tpl="CMDNJN" wtp="22:11" />
+        <PP tpl="WLSDWLJ" wtp="22:17:30" />
+        <PP tpl="HARLSJN" wtp="22:21" />
+        <OPDT tpl="WMBYICD" act="TF" wta="22:31" />
+    </Journey>
+    <Journey rid="201810018974463" uid="Y74463" trainId="5S22" ssd="2018-10-01" toc="GR" trainCat="EE" isPassengerSvc="false">
+        <OPOR tpl="EDINBUR" act="TB" plat="9" wtd="19:49" />
+        <PP tpl="ABHLJN" wtp="19:50:30" />
+        <OPIP tpl="CRGNTYJ" act="OP" wta="19:52:30" wtd="19:53" />
+        <OPDT tpl="CRGNTNY" act="TF" wta="19:57" />
+    </Journey>
+    <Journey rid="201809306740740" uid="C40740" trainId="2P81" ssd="2018-09-30" toc="GW">
+        <OR tpl="RDNGSTN" act="TB" plat="13" ptd="20:05" wtd="20:05" />
+        <PP tpl="RDNGKBJ" wtp="20:07" />
+        <IP tpl="TWYFORD" act="T " plat="4" pta="20:11" ptd="20:11" wta="20:10:30" wtd="20:11:30" />
+        <IP tpl="MDNHEAD" act="T " plat="4" pta="20:19" ptd="20:19" wta="20:18:30" wtd="20:19:30" />
+        <PP tpl="SLOUGHW" wtp="20:25:30" />
+        <IP tpl="SLOUGH" act="T " plat="3" pta="20:27" ptd="20:37" wta="20:26:30" wtd="20:37:30" />
+        <PP tpl="DOLPHNJ" wtp="20:39:30" />
+        <IP tpl="LANGLEY" act="T " plat="4" pta="20:41" ptd="20:42" wta="20:41" wtd="20:42" />
+        <IP tpl="WDRYTON" act="T " plat="4" pta="20:46" ptd="20:51" wta="20:46" wtd="20:51:30" />
+        <PP tpl="HTRWAJN" wtp="20:54" />
+        <IP tpl="HAYESAH" act="T " plat="4" pta="20:55" ptd="20:56" wta="20:55" wtd="20:56" />
+        <IP tpl="STHALL" act="T " plat="4" pta="20:59" ptd="20:59" wta="20:59" wtd="20:59:30" />
+        <PP tpl="WEALING" plat="4" wtp="21:02:30" />
+        <IP tpl="EALINGB" act="T " plat="4" pta="21:04" ptd="21:05" wta="21:04" wtd="21:05" />
+        <PP tpl="ACTONW" wtp="21:06:30" />
+        <PP tpl="LDBRKJ" wtp="21:10:30" />
+        <PP tpl="PRTOBJP" wtp="21:11:30" />
+        <PP tpl="ROYAOJN" wtp="21:12:30" />
+        <DT tpl="PADTON" act="TF" plat="11" pta="21:14" wta="21:14" />
+    </Journey>
+    <Journey rid="201810017680212" uid="L80212" trainId="1B32" ssd="2018-10-01" toc="LE" trainCat="XX">
+        <OR tpl="LIVST" act="TB" plat="7" ptd="21:10" wtd="21:10" />
+        <PP tpl="BTHNLGR" act="X " wtp="21:13" />
+        <PP tpl="HAKNYNM" plat="2" wtp="21:16" />
+        <PP tpl="CLAPTNJ" wtp="21:18:30" />
+        <PP tpl="COPRMLJ" wtp="21:19" />
+        <PP tpl="TTNHMSJ" wtp="21:20" />
+        <IP tpl="TTNHMHL" act="T " plat="2" pta="21:21" ptd="21:22" wta="21:21" wtd="21:22" />
+        <PP tpl="BRIMSDN" wtp="21:26:30" />
+        <PP tpl="CHESHNT" plat="2" wtp="21:29" />
+        <PP tpl="BROXBRN" plat="3" wtp="21:32:30" />
+        <PP tpl="BROXBNJ" wtp="21:33:30" />
+        <PP tpl="HRLWTWN" plat="3" wtp="21:37" />
+        <IP tpl="BSHPSFD" act="T " plat="1" pta="21:45" ptd="21:45" wta="21:44:30" wtd="21:45:30" />
+        <PP tpl="STANMFC" wtp="21:49" />
+        <PP tpl="STANEJN" wtp="21:50" />
+        <PP tpl="TYEGRNJ" wtp="21:51" />
+        <DT tpl="STANAIR" act="TF" plat="3" pta="21:55" wta="21:55" />
+    </Journey>
+    <Journey rid="201810017680218" uid="L80218" trainId="1B33" ssd="2018-10-01" toc="LE" trainCat="XX">
+        <OR tpl="STANAIR" act="TB" plat="3" ptd="22:15" wtd="22:15" />
+        <PP tpl="TYEGRNJ" wtp="22:18:30" />
+        <PP tpl="STANEJN" wtp="22:19" />
+        <IP tpl="STANMFC" act="T " plat="1" pta="22:21" ptd="22:21" wta="22:20:30" wtd="22:21" />
+        <PP tpl="BSHPSFD" plat="2" wtp="22:25" />
+        <IP tpl="HRLWTWN" act="T " plat="2" pta="22:32" ptd="22:32" wta="22:32" wtd="22:32:30" />
+        <PP tpl="BROXBNJ" wtp="22:36:30" />
+        <PP tpl="BROXBRN" plat="2" wtp="22:37:30" />
+        <PP tpl="CHESHNT" plat="1" wtp="22:40" />
+        <PP tpl="BRIMSDN" wtp="22:42:30" />
+        <IP tpl="TTNHMHL" act="T " plat="1" pta="22:48" ptd="22:48" wta="22:47:30" wtd="22:48:30" />
+        <PP tpl="TTNHMSJ" wtp="22:49:30" />
+        <PP tpl="COPRMLJ" wtp="22:50:30" />
+        <PP tpl="CLAPTNJ" wtp="22:51" />
+        <PP tpl="HAKNYNM" plat="1" wtp="22:54:30" />
+        <PP tpl="BTHNLGR" act="X " plat="1" wtp="22:58" />
+        <DT tpl="LIVST" act="TF" plat="6" pta="23:02" wta="23:02" />
+    </Journey>
+    <Journey rid="201810017191523" uid="G91523" trainId="2N01" ssd="2018-10-01" toc="SR">
+        <OR tpl="NEILSTN" act="TB" plat="1" ptd="11:58" wtd="11:58" />
+        <IP tpl="PATERTN" act="T " plat="1" pta="12:04" ptd="12:04" wta="12:03:30" wtd="12:04" />
+        <IP tpl="WTCR" act="T " plat="1" pta="12:06" ptd="12:06" wta="12:06" wtd="12:06:30" />
+        <IP tpl="WMWD" act="T " plat="1" pta="12:08" ptd="12:08" wta="12:08" wtd="12:08:30" />
+        <IP tpl="MUIREND" act="T " plat="1" pta="12:11" ptd="12:11" wta="12:11" wtd="12:11:30" />
+        <PP tpl="CCRTWJN" wtp="12:13:30" />
+        <IP tpl="CCRT" act="T " plat="1" pta="12:14" ptd="12:14" wta="12:14" wtd="12:14:30" />
+        <IP tpl="MTFL" act="T " plat="1" pta="12:16" ptd="12:16" wta="12:16" wtd="12:16:30" />
+        <IP tpl="CROSSHL" act="T " plat="1" pta="12:18" ptd="12:18" wta="12:18" wtd="12:18:30" />
+        <IP tpl="QUNPARK" act="T " plat="1" pta="12:20" ptd="12:20" wta="12:20" wtd="12:20:30" />
+        <IP tpl="PLKLHDE" act="T " plat="1" pta="12:22" ptd="12:22" wta="12:21:30" wtd="12:22" />
+        <PP tpl="MRHSNJ" wtp="12:22:30" />
+        <PP tpl="GLGCBSJ" wtp="12:25" />
+        <DT tpl="GLGC" act="TF" plat="7" pta="12:27" wta="12:27" />
+    </Journey>
+    <Journey rid="201810017193856" uid="G93856" trainId="5N01" ssd="2018-10-01" toc="SR" trainCat="EE" isPassengerSvc="false">
+        <OPOR tpl="NEILSTN" act="TB" wtd="11:36" />
+        <OPIP tpl="NEILTBS" act="RMOP" wta="11:37" wtd="11:42" />
+        <OPDT tpl="NEILSTN" act="TF" wta="11:44" />
+    </Journey>
+    <Association tiploc="STANAIR" category="NP">
+        <main rid="201810017680212" wta="21:55" pta="21:55" />
+        <assoc rid="201810017680218" wtd="22:15" ptd="22:15" />
+    </Association>
+    <Association tiploc="NEILSTN" category="NP">
+        <main rid="201810017193856" wta="11:44" />
+        <assoc rid="201810017191523" wtd="11:58" ptd="11:58" />
+    </Association>
+</PportTimetable>

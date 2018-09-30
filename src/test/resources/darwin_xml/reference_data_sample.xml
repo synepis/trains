@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PportTimetableRef xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" timetableId="20180930020700" xmlns="http://www.thalesgroup.com/rtti/XmlRefData/v3">
+  <LocationRef tpl="DONCSWY" locname="DONCSWY" />
+  <LocationRef tpl="GOOLLOP" locname="GOOLLOP" />
+  <LocationRef tpl="HIGHTRT" locname="HIGHTRT" />
+  <LocationRef tpl="DONC489" locname="DONC489" />
+  <LocationRef tpl="FELL" crs="FEG" toc="TW" locname="Fellgate (T &amp; W Metro)" />
+  <LocationRef tpl="FOXTDCR" locname="FOXTDCR" />
+  <LocationRef tpl="HORSHAM" crs="HRH" toc="SN" locname="Horsham" />
+  <LocationRef tpl="LLWRTYW" crs="LNW" toc="AW" locname="Llanwrtyd" />
+  <LocationRef tpl="OXFDFSQ" locname="OXFDFSQ" />
+  <LocationRef tpl="OLDOENG" locname="OLDOENG" />
+  <LocationRef tpl="EUROHS" locname="EUROHS" />
+  <LocationRef tpl="HLSMTHJ" locname="HLSMTHJ" />
+  <LocationRef tpl="HTFLASF" crs="HFS" toc="NT" locname="Hatfield &amp; Stainforth" />
+  <LocationRef tpl="STOKOAK" locname="STOKOAK" />
+  <TocRef toc="AW" tocname="Arriva Trains Wales" url="http://www.nationalrail.co.uk/tocs_maps/tocs/AW.aspx" />
+  <TocRef toc="CC" tocname="c2c" url="http://www.nationalrail.co.uk/tocs_maps/tocs/CC.aspx" />
+  <TocRef toc="CH" tocname="Chiltern Railways" url="http://www.nationalrail.co.uk/tocs_maps/tocs/CH.aspx" />
+  <TocRef toc="CS" tocname="Caledonian Sleeper" url="http://www.nationalrail.co.uk/tocs_maps/tocs/CS.aspx" />
+  <TocRef toc="EM" tocname="East Midlands Trains" url="http://www.nationalrail.co.uk/tocs_maps/tocs/EM.aspx" />
+  <TocRef toc="ES" tocname="Eurostar" url="http://www.nationalrail.co.uk/tocs_maps/tocs/ES.aspx" />
+  <TocRef toc="GC" tocname="Grand Central" url="http://www.nationalrail.co.uk/tocs_maps/tocs/GC.aspx" />
+  <LateRunningReasons>
+    <Reason code="113" reasontext="This train has been delayed by a problem at a level crossing" />
+    <Reason code="114" reasontext="This train has been delayed by a problem currently under investigation" />
+    <Reason code="115" reasontext="This train has been delayed by a problem near the railway" />
+    <Reason code="116" reasontext="This train has been delayed by a problem with a river bridge" />
+    <Reason code="117" reasontext="This train has been delayed by a problem with line side equipment" />
+  </LateRunningReasons>
+  <CancellationReasons>
+    <Reason code="100" reasontext="This train has been cancelled because of a broken down train" />
+    <Reason code="101" reasontext="This train has been cancelled because of a delay on a previous journey" />
+    <Reason code="102" reasontext="This train has been cancelled because of a derailed train" />
+    <Reason code="104" reasontext="This train has been cancelled because of a fire at a station" />
+    <Reason code="105" reasontext="This train has been cancelled because of a fire at a station earlier" />
+    <Reason code="106" reasontext="This train has been cancelled because of a landslip" />
+    <Reason code="107" reasontext="This train has been cancelled because of a line-side fire" />
+    <Reason code="108" reasontext="This train has been cancelled because of a member of train crew being unavailable" />
+    <Reason code="109" reasontext="This train has been cancelled because of a passenger being taken ill" />
+    <Reason code="110" reasontext="This train has been cancelled because of a passenger having been taken ill earlier" />
+  </CancellationReasons>
+  <Via at="AAP" dest="CAMBDGE" loc1="HFDN" viatext="via Hertford North" />
+  <Via at="AAP" dest="KLYNN" loc1="HFDN" viatext="via Hertford North" />
+  <Via at="AAP" dest="LTCE" loc1="HFDN" viatext="via Hertford North" />
+  <Via at="AAP" dest="PBRO" loc1="HFDN" viatext="via Hertford North" />
+  <Via at="AAP" dest="STEVNGE" loc1="HFDN" viatext="via Hertford North" />
+  <Via at="ABA" dest="BARGOED" loc1="NINIANP" viatext="via Ninian Park" />
+  <Via at="ABA" dest="BRGEND" loc1="RHOOSE" viatext="via Rhoose Cardiff Int Airport" />
+  <Via at="ABA" dest="CARDFBR" loc1="NINIANP" viatext="via Ninian Park" />
+  <Via at="ABA" dest="CARDFQS" loc1="NINIANP" viatext="via Ninian Park" />
+  <Via at="ABA" dest="CORYTON" loc1="NINIANP" viatext="via Ninian Park" />
+  <Via at="ABA" dest="CRDFCEN" loc1="NINIANP" viatext="via Ninian Park" />
+  <CISSource code="AM01" name="Southern Metropolitan" />
+  <CISSource code="AM02" name="Southern Suburban" />
+  <CISSource code="AM03" name="Birmingham New Street" />
+</PportTimetableRef>
